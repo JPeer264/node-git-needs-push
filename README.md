@@ -1,0 +1,26 @@
+# git-needs-push
+
+Check synchronously if a git repository needs to push
+
+## Installation
+
+```sh
+$ npm i git-needs-push --save
+```
+or
+```sh
+$ yarn add git-needs-push
+```
+
+## Usage
+
+```js
+const needsPush = require('git-needs-push');
+
+needsPush(); // true or false of process.cwd()
+needsPush('any/git/repo'); // true or false
+```
+
+## LICENSE
+
+MIT © [Jan Peer Stöcklmair](https://www.jpeer.at)
