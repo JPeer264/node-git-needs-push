@@ -1,5 +1,7 @@
 # git-needs-push
 
+[![Build Status](https://travis-ci.org/JPeer264/node-git-needs-push.svg?branch=master)](https://travis-ci.org/JPeer264/node-git-needs-push)
+
 Check synchronously if a git repository needs to push
 
 ## Installation
