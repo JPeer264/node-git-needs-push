@@ -1,0 +1,6 @@
+31107b9051efe17e57c583937e027993860b11a9 380c6631c269b544000f78922dc65e10556a2bbf JPeer264 <jan.oster94@gmail.com> 1494863367 +0200	checkout: moving from master to check/needpush
+380c6631c269b544000f78922dc65e10556a2bbf 92babd83ecff3fc2f8ce31c6ef9a11a6d0c6b855 JPeer264 <jan.oster94@gmail.com> 1494863389 +0200	rebase -i (start): checkout 92babd83ecff3fc2f8ce31c6ef9a11a6d0c6b855
+92babd83ecff3fc2f8ce31c6ef9a11a6d0c6b855 f26f8c121dd70a52770e95586dd8947f33234166 JPeer264 <jan.oster94@gmail.com> 1494863389 +0200	rebase -i (pick): Initial commit
+f26f8c121dd70a52770e95586dd8947f33234166 47b17444fdded0cee0f768a550cc0bb9f38db3f5 JPeer264 <jan.oster94@gmail.com> 1494863389 +0200	rebase -i (pick): Initial commit
+47b17444fdded0cee0f768a550cc0bb9f38db3f5 6908b2850e9df1f88679a012d394c05215d4dc8b JPeer264 <jan.oster94@gmail.com> 1494863389 +0200	rebase -i (squash): squashed
+6908b2850e9df1f88679a012d394c05215d4dc8b 6908b2850e9df1f88679a012d394c05215d4dc8b JPeer264 <jan.oster94@gmail.com> 1494863406 +0200	rebase -i (finish): returning to refs/heads/check/needpush
